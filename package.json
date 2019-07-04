@@ -5,15 +5,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "python -m SimpleHTTPServer 4000",
-    "predeploy": "npm run ./",
-    "deploy": "gh-pages -d ./"
+    "start": "python -m SimpleHTTPServer 4000"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  },
+  "devDependencies": {},
   "dependencies": {}
 }
