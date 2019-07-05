@@ -40,7 +40,7 @@
 }
 
 .rich-content ul li {
-  padding-bottom: .25rem;
+  padding-bottom: 0.25rem;
 }
 
 .trail-item::before {
@@ -52,7 +52,6 @@
   color: #9f9f9f;
   padding-right: 0.5rem;
 }
-
 
 .trail button,
 .trail .trail-item {
@@ -66,7 +65,6 @@
 }
 
 @media screen and (min-width: 48rem) {
-
   .trail-item::before {
     content: "\203A";
     padding-left: 0.5rem;
@@ -80,7 +78,6 @@
   .trail-item a::before {
     display: none;
   }
-
 }
 
 .trail-item:last-child {
