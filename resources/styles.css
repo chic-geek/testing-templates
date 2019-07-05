@@ -14,7 +14,21 @@
 .trail-item::before {
   content: "\203A";
   display: inline-block;
-  color: #8ac4ff; /* blue-primary */
-  padding-left: 0.5rem; /* spacing-2 */
-  padding-right: 0.5rem; /* spacing-2 */
+  color: #8ac4ff;
+  /* blue-primary */
+  padding-left: 0.5rem;
+  /* spacing-2 */
+  padding-right: 0.5rem;
+  /* spacing-2 */
+}
+
+/* This needs to be included in rich content package */
+
+.rich-content p,
+.rich-content ul {
+  line-height: 1.7;
+}
+
+.rich-content ul {
+  margin-top: 0;
 }
