@@ -21,6 +21,77 @@
   /* 80px */
 }
 
+/* Negative top */
+.nt-1 {
+  top: -0.25rem;
+  /* -4px */
+}
+
+.nt-2 {
+  top: -0.5rem;
+  /* -8px */
+}
+
+.nt-3 {
+  top: -0.75rem;
+  /* -12px */
+}
+
+.nt-4 {
+  top: -1rem;
+  /* -16px */
+}
+
+.nt-5 {
+  top: -1.5rem;
+  /* -24px */
+}
+
+.nt-6 {
+  top: -2rem;
+  /* -32px */
+}
+
+.nt-7 {
+  top: -2.5rem;
+  /* -40px */
+}
+
+.nl-1 {
+  left: -0.25rem;
+  /* -4px */
+}
+
+.nl-2 {
+  left: -0.5rem;
+  /* -8px */
+}
+
+.nl-3 {
+  left: -0.75rem;
+  /* -12px */
+}
+
+.nl-4 {
+  left: -1rem;
+  /* -16px */
+}
+
+.nl-5 {
+  left: -1.5rem;
+  /* -24px */
+}
+
+.nl-6 {
+  left: -2rem;
+  /* -32px */
+}
+
+.nl-7 {
+  left: -2.5rem;
+  /* -40px */
+}
+
 @media screen and (min-width: 48rem) {
   .mt-9-ns {
     margin-top: 5rem;
