@@ -154,3 +154,7 @@
 .trail-item:last-child {
   display: inline-block;
 }
+
+.box-shadow-turquoise-primary {
+  box-shadow: inset 0 0 0 0.063rem #81cec6 !important;
+}
